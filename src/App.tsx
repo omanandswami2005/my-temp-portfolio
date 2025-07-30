@@ -5,7 +5,6 @@ import { HeroSection } from '@/components/sections/HeroSection';
 import { AboutSection } from '@/components/sections/AboutSection';
 import { ProjectsSection } from '@/components/sections/ProjectsSection';
 import { ContactSection } from '@/components/sections/ContactSection';
-import BlogSection from '@/components/sections/BlogSection';
 import { ThemeProvider, useTheme } from '@/providers/theme-provider';
 import Squares from '@/components/ui/Squares';
 import { navItems } from '@/data/navigation';
