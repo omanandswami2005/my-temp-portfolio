@@ -1,0 +1,3 @@
+export const aboutContent = {
+  introduction: `I am a full-stack developer specializing in Node JS backend development, proficient in core technologies such as MongoDB, MySQL, capable of building high-performance and maintainable server-side architectures. I am currently diving deep into JAVA Spring and applying it to real project development. Additionally, I have strong frontend development skills and can use modern frameworks like React, and Vite to build highly interactive web applications. I focus and design details, committed to creating products that combine technical depth with user value with engaging user UX.`
+};
