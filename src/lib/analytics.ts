@@ -33,7 +33,7 @@ export const EventCategories = {
   SOCIAL: 'Social',
   CONTACT: 'Contact',
   THEME: 'Theme',
-  BLOG: 'Blog'
+  // BLOG: 'Blog'
 } as const;
 
 // Predefined event actions
