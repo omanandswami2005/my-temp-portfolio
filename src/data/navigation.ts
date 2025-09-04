@@ -1,4 +1,4 @@
-import { Globe, Code2, Award, MessageSquare, BookOpen } from 'lucide-react';
+import { Globe, Code2, Award, MessageSquare } from 'lucide-react';
 
 export interface NavItem {
   id: string;
